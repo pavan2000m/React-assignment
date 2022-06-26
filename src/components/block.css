@@ -1,0 +1,27 @@
+div{
+    display:flex;
+    border:1px solid;
+    justify-content: center;
+}
+button{
+    margin: 30px;
+    height: 40px;
+    margin-left: 100px;
+}
+#img{
+    margin: 10px;
+    height: 100px;
+    width: 100px;
+}
+#name{
+    padding-top: 20px;
+    padding-left: 100px;
+}
+#music{
+    padding-top: 20px;
+    padding-left: 300px;
+}
+#price{
+    padding-top: 20px;
+    padding-left: 100px;
+}
